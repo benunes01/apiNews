@@ -4,7 +4,7 @@
 <h3>Pegar Site em Vue do outro repositório para testes</h3>
 
 <h1>Descrição</h1>
-<p>A Api cadastra, atualiza, remove , lista notícias e mostra uma notícia separada passando o 'id'. Na tabela Noticias, tem os campos titulo e descrição. Utilizei o MongoAtlas para ser o servidor na núvem, já contêm o admin e senha para conectar no arquivo 'server.js'</p>
+<p>A Api cadastra, atualiza, remove , lista e mostra uma notícia separada passando o 'id'. Na tabela Noticias, tem os campos titulo e descrição. Utilizei o MongoAtlas para ser o servidor na núvem, já contêm o admin e senha para conectar no arquivo 'server.js'</p>
 
 <h1>Ferramentas:</h1>
 <ul>
