@@ -11,7 +11,7 @@
 <li>A criação do servidor foi pelo Express.</li>
 <li>O banco utilizado foi o MongoDB. Similar a ORM ou ODM, ele traduz o banco de dados para objetos JS para que assim possa ser utilizado na aplicação.</li>
 <li>Utilizei o Imsominia inicialmente, uma interface que elimina a necessidade de interagir com APIs baseadas em HTTP.</li>
-<li>Uso do Nodemon, para verificar e atualizar automaticamente quando a mudança no código.</li>
+<li>Uso do Nodemon, para verificar e atualizar automaticamente quando há mudança no código.</li>
 </ul>
 
 <h3>Utilizar o 'npm run dev' para rodar o servidor</h3>
