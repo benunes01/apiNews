@@ -1,5 +1,7 @@
 <h1>Teste-Nagro</h1>
-<p>Repositório do teste da Nagro que consiste em uma simples API em Node, criada para ser consumida por um síte de notícias implementado em Vue</p>
+<p>Repositório do teste da Nagro que consiste em uma simples API em Node, criada para ser consumida por um site de notícias implementado em Vue também criado por mim</p>
+
+<h3>Pegar Site em Vue do outro repositório para testes</h3>
 
 <h1>Descrição</h1>
 <p>A Api cadastra, atualiza, remove , lista notícias e mostra uma notícia separada passando o 'id'. Na tabela Noticias, tem os campos titulo e descrição. Utilizei o MongoAtlas para ser o servidor na núvem, já contêm o admin e senha para conectar no arquivo 'server.js'</p>
