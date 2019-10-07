@@ -1,5 +1,5 @@
 <h1>Teste-Nagro</h1>
-<p>Repositório do teste da Nagro que consiste em uma API para um síte de notícias implementada em Node</p>
+<p>Repositório do teste da Nagro que consiste em uma simples API para um síte de notícias implementada em Node</p>
 
 <h1>Descrição</h1>
 <p>A Api cadastra, atualiza, remove , lista notícias e mostra uma notícia separada passando o 'id'. Na tabela Noticias, tem os campos titulo e descrição. Utilizei o MongoAtlas para ser o servidor na núvem, já contêm o admin e senha para conectar no arquivo 'server.js'</p>
