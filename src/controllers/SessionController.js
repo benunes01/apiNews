@@ -1,6 +1,7 @@
 const User = require('../models/User');
 
 //Caso for fazer login e cadastro futuramente
+//Inutilizavel no momento
 module.exports = {
     async store(req, res) {
         const { email } = req.body;

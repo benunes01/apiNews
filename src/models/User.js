@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 
-//Inicio simples de Users
+//Inicio de Users
+//Inutilizavel no momento!
 
 const UserSchema = new mongoose.Schema({
     email: String,

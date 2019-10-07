@@ -1,6 +1,7 @@
 const express = require('express');
-const SessionController = require('./controllers/SessionController');
 const NoticiaController = require('./controllers/NoticiaController');
+// const SessionController = require('./controllers/SessionController');
+
 
 const routes = express.Router();
 
