@@ -1,5 +1,5 @@
-<h1>Teste-Nagro</h1>
-<p>Repositório do teste da Nagro que consiste em uma simples API em Node, criada para ser consumida por um site de notícias implementado em Vue também criado por mim</p>
+<h1>Teste</h1>
+<p>Repositório do teste que consiste em uma simples API em Node, criada para ser consumida por um site de notícias implementado em Vue também criado por mim</p>
 
 <h3>Pegar Site em Vue do outro repositório para testes</h3>
 <a href="https://github.com/benunes01/VueNews"> Vue News </a>
